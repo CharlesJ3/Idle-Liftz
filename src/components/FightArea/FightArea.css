@@ -1,0 +1,8 @@
+.fightArea {
+  border: 1px solid black;
+  width: 70%;
+  position: absolute;
+  height: 50%;
+  top: 0;
+  left: 0;
+}

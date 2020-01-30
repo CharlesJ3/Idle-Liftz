@@ -1,0 +1,8 @@
+.optionsInformation {
+  border: 1px solid black;
+  width: 30%;
+  position: absolute;
+  height: 99.8vh;
+  top: 0;
+  right: 0;
+}
