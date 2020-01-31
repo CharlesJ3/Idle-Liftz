@@ -5,4 +5,57 @@
   height: 50%;
   top: 0;
   left: 0;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.fightArea img {
+  width: 75%;
+  height: 85%;
+  top: 0;
+}
+
+.fightPart {
+  position: absolute;
+  width: 11%;
+  height: 15%;
+  border: 1px solid red;
+}
+
+.fightPartTitle {
+  margin: 0;
+  color: white;
+  border-bottom: 1px solid black;
+  background-color: rgba(0,0,0,.65);
+  font-size: 1.25em;
+}
+
+#part1 {
+  top: 25%;
+  left: 31%;
+}
+
+#part2 {
+  top: 29%;
+  left: 48%;
+}
+
+#part3 {
+  top: 34%;
+  left: 67%;
+}
+
+#part4 {
+  top: 49%;
+  left: 36%;
+}
+
+#part5 {
+  top: 59%;
+  left: 48%;
+}
+
+#part6 {
+  top: 83%;
+  left: 48%;
 }
